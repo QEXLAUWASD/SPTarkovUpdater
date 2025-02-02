@@ -5,7 +5,7 @@ import zipfile
 import requests
 import py7zr
 
-gitrepo = "https://github.com/QEXLAUWASD/AKIUpdater.git"
+gitrepo = "https://github.com/QEXLAUWASD/SPTarkovUpdater.git"
 if __name__ == "__main__":
     # from github repo  download the client zip file and extract it to the same directory
     # check if the file not exists
@@ -67,7 +67,7 @@ if __name__ == "__main__":
     with open("version.txt", "r") as f:
         version = f.read()
     # check the version from github
-    url = "https://raw.githubusercontent.com/QEXLAUWASD/AKIUpdater/main/version.txt"
+    url = "https://raw.githubusercontent.com/QEXLAUWASD/SPTarkovUpdater/refs/heads/main/version.txt"
     # check if the version is the same
     if version != url:
         # download new version
