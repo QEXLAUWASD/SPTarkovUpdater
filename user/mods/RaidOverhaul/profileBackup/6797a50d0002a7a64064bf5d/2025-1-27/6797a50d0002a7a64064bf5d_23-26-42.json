@@ -1,0 +1,44 @@
+{
+    "info": {
+        "id": "6797a50d0002a7a64064bf5d",
+        "scavId": "6797a50d0000ef6feca91024",
+        "aid": 1367587,
+        "username": "LiuLian",
+        "password": "",
+        "wipe": true,
+        "edition": "Unheard"
+    },
+    "characters": {
+        "pmc": {},
+        "scav": {}
+    },
+    "vitality": {
+        "health": {
+            "Hydration": 0,
+            "Energy": 0,
+            "Temperature": 0,
+            "Head": 0,
+            "Chest": 0,
+            "Stomach": 0,
+            "LeftArm": 0,
+            "RightArm": 0,
+            "LeftLeg": 0,
+            "RightLeg": 0
+        },
+        "effects": {
+            "Head": {},
+            "Chest": {},
+            "Stomach": {},
+            "LeftArm": {},
+            "RightArm": {},
+            "LeftLeg": {},
+            "RightLeg": {}
+        }
+    },
+    "inraid": {
+        "location": "none",
+        "character": "none"
+    },
+    "insurance": [],
+    "dialogues": {}
+}

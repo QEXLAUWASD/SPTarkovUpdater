@@ -1,0 +1,27 @@
+{
+    "6621b200cb248c192d90e324": {
+        "ItemToClone": "FACECOVER_DEATH_KNIGHT",
+        "OverrideProperties": {
+            "Prefab": {
+                "path": "FaceCover/knight_mask_no_wires.bundle",
+                "rcid": ""
+            },
+            "BlocksEarpiece": false,
+            "BlocksEyewear": false,
+            "BlocksHeadwear": false,
+            "BlocksFaceCover": false,
+            "ConflictingItems": [],
+            "armorClass": 6
+        },
+        "LocalePush": {
+            "name": "Death Knight mask (Modified)",
+            "shortName": "Death Knight (M)",
+            "description": "A unique mask of the commander of the Goons squad, former USEC operators who decided not to flee Tarkov, but to create their own order. Compatible with headwear."
+        },
+        "Handbook": {
+            "HandbookParent": "Facecovers",
+            "HandbookPrice": 159999
+        },
+        "CloneToFilters": true
+    }
+}

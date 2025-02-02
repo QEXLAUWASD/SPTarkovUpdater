@@ -1,0 +1,61 @@
+{
+    "6621b28d9411498998d408c3": {
+        "ItemToClone": "BACKPACK_COMM_3",
+        "OverrideProperties": {
+            "Prefab": {
+                "path": "Backpacks/nice_comm_3_bvs.bundle",
+                "rcid": ""
+            },
+            "Grids": [
+                {
+                    "_id": "668b46e3dabe4f549b652079",
+                    "_name": "672ae3d3d21e0675baa6a3af",
+                    "_parent": "6621b28d9411498998d408c3",
+                    "_props": {
+                        "cellsH": 3,
+                        "cellsV": 10,
+                        "filters": [
+                            {
+                                "ExcludedFilter": ["5448bf274bdc2dfc2f8b456a"],
+                                "Filter": ["54009119af1c881c07000029"]
+                            }
+                        ],
+                        "isSortingTable": false,
+                        "maxCount": 0,
+                        "maxWeight": 0,
+                        "minCount": 0
+                    },
+                    "_proto": "55d329c24bdc2d892f8b4567"
+                },
+                {
+                    "_id": "668b46ed9de6ce2b354b9e95",
+                    "_name": "672ae3d13d1b881a141eb2a8",
+                    "_parent": "6621b28d9411498998d408c3",
+                    "_props": {
+                        "cellsH": 3,
+                        "cellsV": 10,
+                        "filters": [
+                            {
+                                "ExcludedFilter": ["5448bf274bdc2dfc2f8b456a"],
+                                "Filter": ["54009119af1c881c07000029"]
+                            }
+                        ],
+                        "isSortingTable": false,
+                        "maxCount": 0,
+                        "maxWeight": 0,
+                        "minCount": 0
+                    },
+                    "_proto": "55d329c24bdc2d892f8b4567"
+                }
+            ]
+        },
+        "LocalePush": {
+            "name": "Mystery Ranch NICE COMM 3 BVS frame system (tan)",
+            "shortName": "COMM 3",
+            "description": "The NICE Frame special system for carrying oversized or heavy loads with an installed COMM 3 backpack for carrying radio systems.\nThe COMM 3 main bay is designed for PRC117F or G, PRC119F, 152, or ASIP radios. The Hitchhiker and Daypack lid allows you to carry separate gear if needed. The modular NICE COMM 3 system is ready to adapt to changing tasks.\nAn extremely rare thing, for which a real hunt is conducted in Tarkov."
+        },
+        "HandbookParent": "Backpacks",
+        "HandbookPrice": 43999,
+        "CloneToFilters": true
+    }
+}
